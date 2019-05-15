@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/assets/images/lacma_lights.jpg"
+    image: "/assets/images/sothebys.jpg"
 ---
 
 I'm currently a data science student at Lambda School as well a Master of Science in Information Systems Technology with a concentration in Data Sciecne Candidate from Claremont Graduate University. 
