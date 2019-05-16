@@ -1,7 +1,6 @@
 ---
 title: "LACMA Project"
-date: 2019-05-16
-collection: projects
+layout: single
 header:
     image: "/assets/images/lacma_lights.jpg"
 excerpt: "LACMA FY18 audience demographics analysis"
