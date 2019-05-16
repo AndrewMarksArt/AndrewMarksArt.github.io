@@ -1,7 +1,7 @@
 ---
 title: "LACMA Project"
 date: 2019-05-16
-tags: [projects]
+collection: projects
 header:
     image: "/assets/images/my_journey.jpg"
 excerpt: "LACMA FY18 audience demographics analysis"
