@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /blog/
-title: "Blog"
+permalink: /project/
+title: "Project"
 author_profile: true
 header:
-    image: "/assets/images/getty.jpg"
+    image: "/assets/images/lacma_lights.jpg"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
