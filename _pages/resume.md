@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /resume/
-title: "Resume"
 author_profile: true
 header:
     image: "/assets/images/drucker.jpg"
@@ -21,6 +20,6 @@ header:
     _Master of Arts, Art Business_
 * __California State University of Northridge, Northridge, CA__  
     _Bachelor of Arts in Economics_
-
 ***
 <h2>Professional Experience</h2>
+***
