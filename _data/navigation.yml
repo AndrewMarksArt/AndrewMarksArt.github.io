@@ -2,8 +2,6 @@
 main:
   - title: "ABOUT"
     url: /about/
-  #- title: "PROJECTS"
-  #  url: /projects/
   - title: "BLOG"
     url: /blog/
   # - title: "About"
