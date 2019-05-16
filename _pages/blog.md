@@ -1,6 +1,8 @@
 ---
-title: "Blog"
+layout: archive
 permalink: /blog/
+title: "Blog"
+author_profile: true
 header:
     image: "/assets/images/lacma_lights.jpg"
 ---
