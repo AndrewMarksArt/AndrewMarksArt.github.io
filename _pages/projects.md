@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /project/
-title: "Project"
+permalink: /projects/
+title: "Projects"
 author_profile: true
 header:
     image: "/assets/images/lacma_lights.jpg"
@@ -11,6 +11,7 @@ header:
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
