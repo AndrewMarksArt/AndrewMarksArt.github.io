@@ -8,7 +8,6 @@ header:
 
 ***
 <div align="center">
-    <iframe src="https://resume.creddle.io/embed/fvqo4fnryyr"
-  width="850" height="1100" seamless></iframe> 
+    <iframe src="https://resume.creddle.io/embed/fvqo4fnryyr"></iframe> 
 </div>
 ***
